@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karimistella aka Galgadots.
+- 👋 Hi, I’m Stella.
 - 👀 I’m interested in Quantitative Financial analysis.
 - 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate on Quantitative financial analysis.
