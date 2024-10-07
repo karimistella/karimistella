@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Stella, a data scientist. To collaborate on data science/ machine learning projescts, reach me via whatsapp on +254794869420.
+- 👋 Hi, I’m Stella, a data scientist.
+- You can find me on LinkedIn at https://www.linkedin.com/in/stellanjuki/
 
 <!---
 karimistella/karimistella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
